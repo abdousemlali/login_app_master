@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="loginhere">Already have an Account ?<u>LogIn</u></string>
+    <string name="signuphere">Create a new account ?<u>Sign Up</u></string>
+</resources>
